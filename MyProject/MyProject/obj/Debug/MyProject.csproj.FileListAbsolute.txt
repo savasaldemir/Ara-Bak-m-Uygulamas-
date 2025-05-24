@@ -1,0 +1,12 @@
+C:\Users\savas\source\repos\MyProject\MyProject\obj\Debug\MyProject.csproj.AssemblyReference.cache
+C:\Users\savas\source\repos\MyProject\MyProject\obj\Debug\MyProject.my_car.resources
+C:\Users\savas\source\repos\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\savas\source\repos\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.cache
+C:\Users\savas\source\repos\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\savas\source\repos\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\savas\source\repos\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\Users\savas\source\repos\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\savas\source\repos\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\Users\savas\source\repos\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\savas\source\repos\MyProject\MyProject\obj\Debug\MyProject.exe.config
+C:\Users\savas\source\repos\MyProject\MyProject\obj\Debug\MyProject.araclar_sayfasi.resources
